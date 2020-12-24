@@ -1,0 +1,19 @@
+{
+  "createBy": "Beard Uncle",
+  "createdAt": "2020-12-22",
+  "version": "1.0",
+  "rules": [
+    {
+      "description": "NAME",
+      "origin": "https://www.a.com/",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://www.a.cn/",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+  ]
+}

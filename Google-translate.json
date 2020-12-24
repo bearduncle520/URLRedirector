@@ -1,0 +1,128 @@
+{
+  "name": "Google Translate Speed Up",
+  "createBy": "Beard Uncle",
+  "createdAt": "2020-12-24",
+  "version": "1.0",
+  "rules": [
+    {
+      "description": "Google Redirector https",
+      "origin": "https://www.google.com/js/bg/(.*).js",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://www.google.cn/js/bg/$.js",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "Google recaptcha",
+      "origin": "www.google.com/recaptcha",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "recaptcha.net/recaptcha",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "Google Redirector http",
+      "origin": "http://www.google.com/js/bg/(.*).js",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://www.google.cn/js/bg/$.js",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "Google Ogs",
+      "origin": "ogs.google.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "ogs.google.cn",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "Google Apis",
+      "origin": "apis.google.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "apis.google.cn",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "Google js",
+      "origin": "www.google.com/js/bg/n1KRpsC-mOXJ7g2QPDp_TxSNqegeRJu8ac_a7RtvSLI.js",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "cdn.jsdelivr.net/gh/bearduncle520/URLRedirector@latest/js/n1KRpsC-mOXJ7g2QPDp_TxSNqegeRJu8ac_a7RtvSLI.js",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "Google Fonts1",
+      "origin": "fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "cdn.jsdelivr.net/gh/bearduncle520/URLRedirector@latest/fonts/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "Google Fonts2",
+      "origin": "fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "cdn.jsdelivr.net/gh/bearduncle520/URLRedirector@latest/fonts/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "Google Fonts3",
+      "origin": "fonts.gstatic.com/s/materialiconsextended/v64/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "cdn.jsdelivr.net/gh/bearduncle520/URLRedirector@latest/fonts/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "Google Fonts4",
+      "origin": "fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "cdn.jsdelivr.net/gh/bearduncle520/URLRedirector@latest/fonts/KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+  ]
+}

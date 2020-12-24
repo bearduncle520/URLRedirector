@@ -1,0 +1,139 @@
+{
+  "createBy": "Beard Uncle",
+  "createdAt": "2020-12-24",
+  "version": "1.0",
+  "rules": [
+    {
+      "description": "www.gravatar.com ",
+      "origin": "www.gravatar.com ",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "gravatar.lug.ustc.edu.cn",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+    {
+      "description": "secure.gravatar.com",
+      "origin": "secure.gravatar.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "gravatar.lug.ustc.edu.cn",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+    {
+      "description": "fonts.gstatic.com",
+      "origin": "fonts.gstatic.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "fonts-gstatic.lug.ustc.edu.cn",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+    {
+      "description": "themes.googleusercontent.com",
+      "origin": "themes.googleusercontent.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "google-themes.lug.ustc.edu.cn",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+    {
+      "description": "gerrit.googlesource.com",
+      "origin": "gerrit.googlesource.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "gerrit-googlesource.lug.ustc.edu.cn",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+    {
+      "description": "storage.googleapis.com",
+      "origin": "storage.googleapis.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "storage-googleapis.lug.ustc.edu.cn",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+    {
+      "description": "fonts.googleapis.com",
+      "origin": "fonts.googleapis.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "fonts.lug.ustc.edu.cn",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+    {
+      "description": "ajax.googleapis.com",
+      "origin": "ajax.googleapis.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "ajax.lug.ustc.edu.cn",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+    {
+      "description": "Twitter widgets",
+      "origin": "platform.twitter.com/widgets.js",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "cdn.jsdelivr.net/gh/bearduncle520/URLRedirector@latest/proxy/widgets.js",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+    {
+      "description": "Google Api",
+      "origin": "apis.google.com/js/api.js",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "cdn.jsdelivr.net/gh/bearduncle520/URLRedirector@latest/proxy/api.js",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+    {
+      "description": "Google Plusone",
+      "origin": "apis.google.com/js/plusone.js",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "cdn.jsdelivr.net/gh/bearduncle520/URLRedirector@latest/proxy/plusone.js",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+  ]
+}
