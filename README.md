@@ -33,15 +33,23 @@ https://cdn.jsdelivr.net/gh/bearduncle520/URLRedirector@latest/fonts/KFOlCnqEu92
 加速了以下链接和文件
 
 ajax.googleapis.com → ajax.lug.ustc.edu.cn
+
 fonts.googleapis.com → fonts.lug.ustc.edu.cn
+
 storage.googleapis.com → storage-googleapis.lug.ustc.edu.cn
+
 gerrit.googlesource.com → gerrit-googlesource.lug.ustc.edu.cn
+
 themes.googleusercontent.com → google-themes.lug.ustc.edu.cn
+
 fonts.gstatic.com → fonts-gstatic.lug.ustc.edu.cn
+
 secure.gravatar.com → gravatar.lug.ustc.edu.cn
 
 platform.twitter.com/widgets.js
+
 apis.google.com/js/api.js
+
 apis.google.com/js/plusone.js
 
 ## 重定向插件
