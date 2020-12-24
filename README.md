@@ -1,5 +1,12 @@
 # 重定向在线订阅
 
+默认
+
+https://raw.githubusercontent.com/bearduncle520/URLRedirector/main/Google-translate.json
+https://raw.githubusercontent.com/bearduncle520/URLRedirector/main/GTSpeed.json
+
+加速
+
 https://cdn.jsdelivr.net/gh/bearduncle520/URLRedirector@latest/Google-translate.json
 https://cdn.jsdelivr.net/gh/bearduncle520/URLRedirector@latest/GTSpeed.json
 
